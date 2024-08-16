@@ -21,3 +21,6 @@ App
     Appen går igennem den data/kode/de kommandoer, som den har fået af brugeren og sender dem til dronen.
   - Datalag:
     De kommandoer som den har fået af brugeren.
+
+Resume af dagen:
+I dag har vi lært at bruge en Tello drone. Vi har lært at skrive kode i pycharm, og sende kommandoer til dronen via dens wifi.
