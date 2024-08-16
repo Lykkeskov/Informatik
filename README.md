@@ -11,6 +11,7 @@ Selve dronen
   - Logiklag:
     Dronen udfører de aktioner, som den har fra datalaget.
   - Datalag:
+    Sensorer, wifi, batterisensor, kamera, akcelerationsmeter, geometer
     Dronen modtager data fra appen i form af kode/de kommandoer, som brugeren har givet som input.
 
 App
