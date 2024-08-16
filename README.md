@@ -5,6 +5,7 @@ opg. 1: logbog:
 
 
 opg. 2: analyse af Tello dronen som itsystem ift. 3-lags modellen:
+
 Selve dronen
   - Præsentationslag:
     Sensoren bruges til at se omgivelserne.
