@@ -29,12 +29,15 @@ I dag har vi lært at bruge en Tello drone. Vi har lært at skrive kode i pychar
 
 
 26/08/2024
+Vi startede med at lære lidt om arduino og innovation.
+
 Innovation (4P)
 - Idégenerering til projekt dronecontroller
     BRAINSTORM - vores idéer:
     - Mind control
-    - playstation 4controller / joystick (m. laser)
+    - playstation 4 controller / joystick (m. laser)
     - Forsøgelsesdrone m. laser
-    - drap ting og drop ting
-    - motion sensor følg efter m. droneparaply
+    - grap ting og drop ting
+    - Drone som følger efter person. evt. gør brug af motionsensor el. lyspunkt el. kode ting
 
+Vi har valgt at arbejde med, at lave noget, der gør at en drone kan følge efter en.
