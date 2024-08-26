@@ -25,3 +25,16 @@ App
 
 Resume af dagen:
 I dag har vi lært at bruge en Tello drone. Vi har lært at skrive kode i pycharm, og sende kommandoer til dronen via dens wifi.
+
+
+
+26/08/2024
+Innovation (4P)
+- Idégenerering til projekt dronecontroller
+    BRAINSTORM - vores idéer:
+    - Mind control
+    - playstation 4controller / joystick (m. laser)
+    - Forsøgelsesdrone m. laser
+    - drap ting og drop ting
+    - motion sensor følg efter m. droneparaply
+
