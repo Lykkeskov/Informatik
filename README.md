@@ -29,7 +29,8 @@ I dag har vi lært at bruge en Tello drone. Vi har lært at skrive kode i pychar
 
 
 26/08/2024
-Vi startede med at lære lidt om arduino og innovation.
+Vi startede med at lære lidt om arduino og innovation (med 4p modellen: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloud.cct.au.dk%2Fwiki%2Findex.php%3Ftitle%3DInnovation&psig=AOvVaw0PzBB5K49oDxGKkv3aSFuH&ust=1724751968398000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND4y_avkogDFQAAAAAdAAAAABAE).
+
 
 Innovation (4P)
 - Idégenerering til projekt dronecontroller
