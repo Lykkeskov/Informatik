@@ -42,3 +42,17 @@ Innovation (4P)
     - Drone som følger efter person. evt. gør brug af motionsensor el. lyspunkt el. kode ting
 
 Vi har valgt at arbejde med, at lave noget, der gør at en drone kan følge efter en.
+
+
+
+12/09/2024
+
+Arduino sender data til oc i form af 0/1
+Den slukker og sender: TX (transmit) og RX (recieve)
+baudrate: changes per second (hos arduino 115200)
+
+Protokol: 
+ - data: acc.x m/s
+ - arduino: ____
+ - pc/python: float
+
