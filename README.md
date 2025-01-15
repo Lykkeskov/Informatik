@@ -56,3 +56,13 @@ Protokol:
  - arduino: ____
  - pc/python: float
 
+
+
+Kryptering
+
+10/01/25
+Opgave 1: DIY CRYPTO FUN TIMES
+
+![tabel med krypteringsmuligheder](kryptering tabel.png)
+
+
