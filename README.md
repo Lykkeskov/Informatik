@@ -66,3 +66,32 @@ Opgave 1: DIY CRYPTO FUN TIMES
 ![tabel med krypteringsmuligheder](kryptering tabel.png)
 
 
+17/01/2025
+
+
+- fortrolighed
+    det er hemmeligt
+- privathed
+    andre kan ikke se det
+- integratet
+    af dataen
+- uafviselighed
+    signering
+
+Person in the middle kan tage alice's pubkey og give en fakekey til bob, så alice snakker med darth og bob snakker med alice, mens de tror de snakker med hinanden.
+Kan undgås med en webserver's certifikat, som er signeret af større firmaer fx microsoft, google, amazon osv. Hvis en bliver comprimised skal det hele opdateres ting ting.
+Certifikaterne er i med npr man downloader en browser. Et firma certifikere en webside, det firma er certificeret af et andet, osv. (bygger på trust).
+
+signalefterretning (sigint):
+efterretningkilde til aflytning ovs.
+
+steganografi (stammer fra græsk):
+Er opfundet før kryptering
+Beskeder der ikke ligner beskever (så skjulte beskeder), fx en skjult besked i nogle afet billedes pixels.
+Det er ikke kryptografisk sikkert og enhver kan i princippet finde beskeden, de skab bare vide om det, for at lede efter det.
+Kaliningrad sender konstant en masse radiosignaler som ikke giver mening og så engang imellem er der en eller anden besked, men ingen kan finde den, fordi de heletiden sender gibberish.
+https//:orion.moore.dk:3333 er skolens radio signal opfanger hjemmeside, hvor man kan høre en masse radiosignaler.
+Stenografi er altså en besked der er gemt i en anden uskyldig besked eller i støj.
+
+Det vigtigste i fagets projekter er læring.
+
