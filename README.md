@@ -86,6 +86,7 @@ signalefterretning (sigint):
 efterretningkilde til aflytning ovs.
 
 steganografi (stammer fra græsk):
+https://www.geeksforgeeks.org/image-steganography-in-cryptography/ 
 Er opfundet før kryptering
 Beskeder der ikke ligner beskever (så skjulte beskeder), fx en skjult besked i nogle afet billedes pixels.
 Det er ikke kryptografisk sikkert og enhver kan i princippet finde beskeden, de skab bare vide om det, for at lede efter det.
