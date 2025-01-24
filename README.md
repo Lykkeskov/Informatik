@@ -96,3 +96,6 @@ Stenografi er altså en besked der er gemt i en anden uskyldig besked eller i st
 
 Det vigtigste i fagets projekter er læring.
 
+
+24/01/2025 #LINJE 100 WOW!!!11!!!!1!1!
+I dag arbejder vi videre på SIGINT projektet
