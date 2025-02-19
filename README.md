@@ -102,6 +102,7 @@ I dag arbejder vi videre på SIGINT projektet
 
 19/02/2025
 Vi arbejder videre på sigint projektet, og jeg arbejder på et website til det.
+Vil bruge Py thon sammen med HTML - https://pyscript.net
 
 
 
