@@ -103,6 +103,8 @@ I dag arbejder vi videre på SIGINT projektet
 19/02/2025
 Vi arbejder videre på sigint projektet, og jeg arbejder på et website til det.
 Vil bruge Py thon sammen med HTML - https://pyscript.net
+Jeg har tilføjet et message input felt.
 
-
-
+21/02/2025
+Vi arbejder videre på sigint projektet.
+Jeg har tilføjet en upload knap, en download knap og image preview funktionalitet med javaScript.
