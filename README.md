@@ -108,3 +108,11 @@ Jeg har tilføjet et message input felt.
 21/02/2025
 Vi arbejder videre på sigint projektet.
 Jeg har tilføjet en upload knap, en download knap og image preview funktionalitet med javaScript.
+
+24/02/2025
+I informatikfaget kigger man ud mod verden og brugeren, mens man i programmeringsfaget kigger på håndværket. Dog er programmering et redskab i informatik.
+Note til eksamen: Den opgave man trækker skal der bruges python, men det kan vise overblik at lave ens anden opgave (hvor man selv vælger problemformulering) i et andet sprog, hvis det giver mening.
+
+Dansk cybermesterskaber kategorier
+Forensics: finde data
+Reverse engineering: Finde data ud fra kildekoden
