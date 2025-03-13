@@ -116,3 +116,7 @@ Note til eksamen: Den opgave man trækker skal der bruges python, men det kan vi
 Dansk cybermesterskaber kategorier
 Forensics: finde data
 Reverse engineering: Finde data ud fra kildekoden
+
+13/04/2025
+Jeg laver opgaver om cybersikkerhed på: https://www.cybermesterskaberne.dk og har indtil videre arbejdet med decryption, og arbejder videre senere i dag.
+
