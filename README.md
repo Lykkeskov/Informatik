@@ -63,7 +63,7 @@ Kryptering
 10/01/25
 Opgave 1: DIY CRYPTO FUN TIMES
 
-![tabel med krypteringsmuligheder](kryptering tabel.png)
+![tabel med krypteringsmuligheder](krypteringtabel.png)
 
 
 17/01/2025
@@ -121,10 +121,31 @@ Reverse engineering: Finde data ud fra kildekoden
 Jeg laver opgaver om cybersikkerhed på: https://www.cybermesterskaberne.dk og har indtil videre arbejdet med decryption, og arbejder videre senere i dag.
 
 27/03/2025
-Terminal
+### Terminal
 Sårbarheder for CVE (Common Vulnerabilities and Exposures) nummer - exploit er når man udnytter noget i systemet (så ikke det samme som en bug).
 Der bliver ofte fundet sårbarheder og derfor skal man hele tiden opdatere sit system.
 http: port 80
 https: port 443
-OSI model (open systems interconnection): "breaks down network communication into seven layers. These layers are useful for identifying network issues."
+### OSI model
+(open systems interconnection): "breaks down network communication into seven layers. These layers are useful for identifying network issues."
+
 ![OSI model](billede_2025-03-27_083438584.png)
+
+Tal med netværk
+Step 1: mapping
+curl til port scanning
+
+![curl stuff](billede_2025-03-27_085326435.png)
+
+"Shodan.io was developed with a primary goal: to effectively map and monitor internet-connected devices. Shodan.io enables vulnerability assessments, threat intelligence gathering, and security research by indexing and categorizing these devices."
+Alle ip-adresser er scannet - se port usage.
+nmap servernavn - se hvilke porte der er åbne.
+Man kan også: nmap localhost - se egne porte
+Curl kan sknakke http
+NETCAT eller NC er ligesom cat der spytter alt den tekst der står i et program ud i terminal.
+Med NETCAT kan også forbinde til port og lytte (ncat listen)
+
+### SGQL injection
+https://guicommits.com/how-sql-injection-attack-works-with-examples/
+
+![How SQL works](billede_2025-03-27_110525131.png)
