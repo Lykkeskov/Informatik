@@ -120,3 +120,11 @@ Reverse engineering: Finde data ud fra kildekoden
 13/04/2025
 Jeg laver opgaver om cybersikkerhed på: https://www.cybermesterskaberne.dk og har indtil videre arbejdet med decryption, og arbejder videre senere i dag.
 
+27/03/2025
+Terminal
+Sårbarheder for CVE (Common Vulnerabilities and Exposures) nummer - exploit er når man udnytter noget i systemet (så ikke det samme som en bug).
+Der bliver ofte fundet sårbarheder og derfor skal man hele tiden opdatere sit system.
+http: port 80
+https: port 443
+OSI model (open systems interconnection): "breaks down network communication into seven layers. These layers are useful for identifying network issues."
+![OSI model](billede_2025-03-27_083438584.png)
