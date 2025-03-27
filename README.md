@@ -145,6 +145,14 @@ Curl kan sknakke http
 NETCAT eller NC er ligesom cat der spytter alt den tekst der står i et program ud i terminal.
 Med NETCAT kan også forbinde til port og lytte (ncat listen)
 
+Nmap viser åbne porte på en target IP https://www.recordedfuture.com/threat-intelligence-101/tools-and-techniques/nmap-commands
+eksempel: nmap 10.148.132.76
+
+curl forbinder til webservere og viser rådata https://www.keycdn.com/support/popular-curl-examples
+eksempel: curl orion.moore.dk
+
+nc til rå forbindelser mellem maskiner (TCP/UDP) – kan både lytte og ringe https://aarhustech.itslearning.com/ContentArea/ContentArea.aspx?LocationID=47784&LocationType=1
+
 ### SGQL injection
 https://guicommits.com/how-sql-injection-attack-works-with-examples/
 
