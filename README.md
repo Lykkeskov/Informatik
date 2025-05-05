@@ -157,3 +157,14 @@ nc til rå forbindelser mellem maskiner (TCP/UDP) – kan både lytte og ringe h
 https://guicommits.com/how-sql-injection-attack-works-with-examples/
 
 ![How SQL works](billede_2025-03-27_110525131.png)
+
+05/05/2025
+Venn diagram: 
+"afbildning af forhold imellem subjekt og prædikat, opfundet af den britiske logiker John Venn (1834-1923) mhp. at afgøre syllogismers logiske gyldighed. Diagrammet består af tre cirkler, som skærer hinanden, og som repræsenterer underbegreb, overbegreb og mellembegreb." - Lex
+![AI venn diagram, basic](AIvenn1.png)
+
+![AI venn diagram, detailed](AIvenn2.png)
+
+I dag ser vi på lidt på teachable machines. Det er meningen at vi skal eksportere, så vi selv kan lege med det.
+1. Byg en model, eller find en
+2. Kør den på egen maskine
