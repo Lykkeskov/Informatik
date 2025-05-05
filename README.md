@@ -185,6 +185,8 @@ Som start bruger vi https://teachablemachine.withgoogle.com/train til nemt at ar
 Vi laver en der skal kunne se forskel på forskellige ansigtsudtryk, men den virker ikke så godt. Måske ser den med på baggrunden, eller også var billederne ikke gode nok. Der var eller 300-600 i hver kategori, hvilket nok er fint til en start.
 Vi laver også en model der skal kunne kende forskel på folk - den virker fint nok.
 
+Næste gang laver vi demo.
+
 Derefter laver jeg en bot der scraper twitter for memes og inddeler dem i kategorier baseret på hashtags og keywords. Det tager lidt tid, men jeg er begyndt på det. 
 Her bruger jeg javascript til at scrape og så gemmes filerne derefter i en SQLite database. 
 Jeg overvejer at bruge Task Scheduler til at automatisere det, men der er nok en bedre måde at gøre det på.
