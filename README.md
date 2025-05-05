@@ -158,9 +158,20 @@ https://guicommits.com/how-sql-injection-attack-works-with-examples/
 
 ![How SQL works](billede_2025-03-27_110525131.png)
 
+
+### Studieretningsdag
+Informatik er en del af studieretningen og jeg vil gerne lige gemme det her til senere.
+DIY Arduino EKG-måler: https://aarhusuni.taskcards.app/#/board/6ee93724-b8ab-4843-9a3b-35c91f12e8cc/view
+
+
+### Teachable Machines og Venn diagrammer
+
 05/05/2025
+
 Venn diagram: 
 "afbildning af forhold imellem subjekt og prædikat, opfundet af den britiske logiker John Venn (1834-1923) mhp. at afgøre syllogismers logiske gyldighed. Diagrammet består af tre cirkler, som skærer hinanden, og som repræsenterer underbegreb, overbegreb og mellembegreb." - Lex
+
+Herunder ses venn diagrammer 
 
 ![AI venn diagram, basic](AIvenn1.png)
 
@@ -169,3 +180,11 @@ Venn diagram:
 I dag ser vi på lidt på teachable machines. Det er meningen at vi skal eksportere, så vi selv kan lege med det.
 1. Byg en model, eller find en
 2. Kør den på egen maskine
+
+Som start bruger vi https://teachablemachine.withgoogle.com/train til nemt at arbejde med teachable machines.
+Vi laver en der skal kunne se forskel på forskellige ansigtsudtryk, men den virker ikke så godt. Måske ser den med på baggrunden, eller også var billederne ikke gode nok. Der var eller 300-600 i hver kategori, hvilket nok er fint til en start.
+Vi laver også en model der skal kunne kende forskel på folk - den virker fint nok.
+
+Derefter laver jeg en bot der scraper twitter for memes og inddeler dem i kategorier baseret på hashtags og keywords. Det tager lidt tid, men jeg er begyndt på det. 
+Her bruger jeg javascript til at scrape og så gemmes filerne derefter i en SQLite database. 
+Jeg overvejer at bruge Task Scheduler til at automatisere det, men der er nok en bedre måde at gøre det på.
