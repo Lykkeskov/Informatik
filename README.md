@@ -23,6 +23,8 @@ App
   - Datalag:
     De kommandoer som den har fået af brugeren.
 
+Kan bruges analytisk og generativt.
+
 Resume af dagen:
 I dag har vi lært at bruge en Tello drone. Vi har lært at skrive kode i pycharm, og sende kommandoer til dronen via dens wifi.
 
@@ -190,3 +192,19 @@ Næste gang laver vi demo.
 Derefter laver jeg en bot der scraper twitter for memes og inddeler dem i kategorier baseret på hashtags og keywords. Det tager lidt tid, men jeg er begyndt på det. 
 Her bruger jeg javascript til at scrape og så gemmes filerne derefter i en SQLite database. 
 Jeg overvejer at bruge Task Scheduler til at automatisere det, men der er nok en bedre måde at gøre det på.
+
+
+### Informatik recap
+12/05/2025
+Her ser vi på de ting vi har været gennem indtil videre.
+
+Emner:
+- It & humans
+- Etik
+- Systemdesign
+- It Arkiteknur
+
+Projekter:
+- Droner
+- Kryptologi OPSEC/INTSEC
+- Database/Cybersikkerhed/webstuff
