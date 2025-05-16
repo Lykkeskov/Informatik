@@ -208,3 +208,19 @@ Projekter:
 - Droner
 - Kryptologi OPSEC/INTSEC
 - Database/Cybersikkerhed/webstuff
+
+
+### Test af teachable machine
+
+16/05/2025
+
+Vi har prøvet at få vores program til at køre i python.
+
+ml5machine er godt til at lære machine learning. Det er hvad teachable machine var i gamle dage
+
+ROI: Regien Of Interest - Den klipper fx dåse ud
+
+De 4'er bruges til at som en samtalrestarter, det er ikke et scorecard.
+
+Vi har brainstormet ideer til eemner vi kan have om i 3.G
+![Ideer](3gideer.png)
