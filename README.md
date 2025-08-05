@@ -1,3 +1,4 @@
+### Drone projekt
 16/08/24
 opg. 1: logbog:
   - nyt projekt på github
@@ -6,7 +7,7 @@ opg. 1: logbog:
 
 opg. 2: analyse af Tello dronen som itsystem ift. 3-lags modellen:
 
-Selve dronen
+## Selve dronen
   - Præsentationslag:
     Sensoren bruges til at se omgivelserne.
   - Logiklag:
@@ -15,7 +16,7 @@ Selve dronen
     Sensorer, wifi, batterisensor, kamera, akcelerationsmeter, geometer
     Dronen modtager data fra appen i form af kode/de kommandoer, som brugeren har givet som input.
 
-App
+## App
   - Præsentationslag:
     Brugeren anvender dronens app eller skriver selv kode, der får dronen til at udføre forskellige aktioner.
   - Logiklag:
@@ -34,7 +35,7 @@ I dag har vi lært at bruge en Tello drone. Vi har lært at skrive kode i pychar
 Vi startede med at lære lidt om arduino og innovation (med 4p modellen: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloud.cct.au.dk%2Fwiki%2Findex.php%3Ftitle%3DInnovation&psig=AOvVaw0PzBB5K49oDxGKkv3aSFuH&ust=1724751968398000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND4y_avkogDFQAAAAAdAAAAABAE).
 
 
-Innovation (4P)
+## Innovation (4P)
 - Idégenerering til projekt dronecontroller
     BRAINSTORM - vores idéer:
     - Mind control
@@ -60,16 +61,14 @@ Protokol:
 
 
 
-Kryptering
+### Kryptering & OPSEC/SIGINT projekt
 
 10/01/25
 Opgave 1: DIY CRYPTO FUN TIMES
 
 ![tabel med krypteringsmuligheder](krypteringtabel.png)
 
-
 17/01/2025
-
 
 - fortrolighed
     det er hemmeligt
@@ -84,10 +83,13 @@ Person in the middle kan tage alice's pubkey og give en fakekey til bob, så ali
 Kan undgås med en webserver's certifikat, som er signeret af større firmaer fx microsoft, google, amazon osv. Hvis en bliver comprimised skal det hele opdateres ting ting.
 Certifikaterne er i med npr man downloader en browser. Et firma certifikere en webside, det firma er certificeret af et andet, osv. (bygger på trust).
 
-signalefterretning (sigint):
+## signalefterretning
+(sigint)
 efterretningkilde til aflytning ovs.
 
-steganografi (stammer fra græsk):
+## steganografi 
+(stammer fra græsk)
+
 https://www.geeksforgeeks.org/image-steganography-in-cryptography/ 
 Er opfundet før kryptering
 Beskeder der ikke ligner beskever (så skjulte beskeder), fx en skjult besked i nogle afet billedes pixels.
@@ -99,7 +101,7 @@ Stenografi er altså en besked der er gemt i en anden uskyldig besked eller i st
 Det vigtigste i fagets projekter er læring.
 
 
-24/01/2025 #LINJE 100 WOW!!!11!!!!1!1!
+24/01/2025
 I dag arbejder vi videre på SIGINT projektet
 
 19/02/2025
@@ -115,19 +117,20 @@ Jeg har tilføjet en upload knap, en download knap og image preview funktionalit
 I informatikfaget kigger man ud mod verden og brugeren, mens man i programmeringsfaget kigger på håndværket. Dog er programmering et redskab i informatik.
 Note til eksamen: Den opgave man trækker skal der bruges python, men det kan vise overblik at lave ens anden opgave (hvor man selv vælger problemformulering) i et andet sprog, hvis det giver mening.
 
-Dansk cybermesterskaber kategorier
+## Dansk cybermesterskaber kategorier
 Forensics: finde data
 Reverse engineering: Finde data ud fra kildekoden
 
 13/04/2025
 Jeg laver opgaver om cybersikkerhed på: https://www.cybermesterskaberne.dk og har indtil videre arbejdet med decryption, og arbejder videre senere i dag.
 
-27/03/2025
 ### Terminal
+27/03/2025
 Sårbarheder for CVE (Common Vulnerabilities and Exposures) nummer - exploit er når man udnytter noget i systemet (så ikke det samme som en bug).
 Der bliver ofte fundet sårbarheder og derfor skal man hele tiden opdatere sit system.
 http: port 80
 https: port 443
+
 ### OSI model
 (open systems interconnection): "breaks down network communication into seven layers. These layers are useful for identifying network issues."
 
@@ -220,7 +223,8 @@ ml5machine er godt til at lære machine learning. Det er hvad teachable machine 
 
 ROI: Regien Of Interest - Den klipper fx dåse ud
 
-De 4'er bruges til at som en samtalrestarter, det er ikke et scorecard.
+De 4 p'er bruges til at som en samtalrestarter, det er ikke et scorecard.
 
+### Ideer til 3.G
 Vi har brainstormet ideer til eemner vi kan have om i 3.G
 ![Ideer](3gideer.png)
