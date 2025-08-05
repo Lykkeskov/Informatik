@@ -1,4 +1,4 @@
-### Drone projekt
+## Drone projekt
 16/08/24
 opg. 1: logbog:
   - nyt projekt på github
@@ -7,7 +7,7 @@ opg. 1: logbog:
 
 opg. 2: analyse af Tello dronen som itsystem ift. 3-lags modellen:
 
-## Selve dronen
+### Selve dronen
   - Præsentationslag:
     Sensoren bruges til at se omgivelserne.
   - Logiklag:
@@ -16,7 +16,7 @@ opg. 2: analyse af Tello dronen som itsystem ift. 3-lags modellen:
     Sensorer, wifi, batterisensor, kamera, akcelerationsmeter, geometer
     Dronen modtager data fra appen i form af kode/de kommandoer, som brugeren har givet som input.
 
-## App
+### App
   - Præsentationslag:
     Brugeren anvender dronens app eller skriver selv kode, der får dronen til at udføre forskellige aktioner.
   - Logiklag:
@@ -35,7 +35,7 @@ I dag har vi lært at bruge en Tello drone. Vi har lært at skrive kode i pychar
 Vi startede med at lære lidt om arduino og innovation (med 4p modellen: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloud.cct.au.dk%2Fwiki%2Findex.php%3Ftitle%3DInnovation&psig=AOvVaw0PzBB5K49oDxGKkv3aSFuH&ust=1724751968398000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND4y_avkogDFQAAAAAdAAAAABAE).
 
 
-## Innovation (4P)
+### Innovation (4P)
 - Idégenerering til projekt dronecontroller
     BRAINSTORM - vores idéer:
     - Mind control
@@ -61,7 +61,7 @@ Protokol:
 
 
 
-### Kryptering & OPSEC/SIGINT projekt
+## Kryptering & OPSEC/SIGINT projekt
 
 10/01/25
 Opgave 1: DIY CRYPTO FUN TIMES
@@ -83,11 +83,11 @@ Person in the middle kan tage alice's pubkey og give en fakekey til bob, så ali
 Kan undgås med en webserver's certifikat, som er signeret af større firmaer fx microsoft, google, amazon osv. Hvis en bliver comprimised skal det hele opdateres ting ting.
 Certifikaterne er i med npr man downloader en browser. Et firma certifikere en webside, det firma er certificeret af et andet, osv. (bygger på trust).
 
-## signalefterretning
+### signalefterretning
 (sigint)
 efterretningkilde til aflytning ovs.
 
-## steganografi 
+### steganografi 
 (stammer fra græsk)
 
 https://www.geeksforgeeks.org/image-steganography-in-cryptography/ 
@@ -117,21 +117,21 @@ Jeg har tilføjet en upload knap, en download knap og image preview funktionalit
 I informatikfaget kigger man ud mod verden og brugeren, mens man i programmeringsfaget kigger på håndværket. Dog er programmering et redskab i informatik.
 Note til eksamen: Den opgave man trækker skal der bruges python, men det kan vise overblik at lave ens anden opgave (hvor man selv vælger problemformulering) i et andet sprog, hvis det giver mening.
 
-## Dansk cybermesterskaber kategorier
+### Dansk cybermesterskaber kategorier
 Forensics: finde data
 Reverse engineering: Finde data ud fra kildekoden
 
 13/04/2025
 Jeg laver opgaver om cybersikkerhed på: https://www.cybermesterskaberne.dk og har indtil videre arbejdet med decryption, og arbejder videre senere i dag.
 
-### Terminal
+## Terminal
 27/03/2025
 Sårbarheder for CVE (Common Vulnerabilities and Exposures) nummer - exploit er når man udnytter noget i systemet (så ikke det samme som en bug).
 Der bliver ofte fundet sårbarheder og derfor skal man hele tiden opdatere sit system.
 http: port 80
 https: port 443
 
-### OSI model
+## OSI model
 (open systems interconnection): "breaks down network communication into seven layers. These layers are useful for identifying network issues."
 
 ![OSI model](billede_2025-03-27_083438584.png)
@@ -158,18 +158,18 @@ eksempel: curl orion.moore.dk
 
 nc til rå forbindelser mellem maskiner (TCP/UDP) – kan både lytte og ringe https://aarhustech.itslearning.com/ContentArea/ContentArea.aspx?LocationID=47784&LocationType=1
 
-### SGQL injection
+## SGQL injection
 https://guicommits.com/how-sql-injection-attack-works-with-examples/
 
 ![How SQL works](billede_2025-03-27_110525131.png)
 
 
-### Studieretningsdag
+## Studieretningsdag
 Informatik er en del af studieretningen og jeg vil gerne lige gemme det her til senere.
 DIY Arduino EKG-måler: https://aarhusuni.taskcards.app/#/board/6ee93724-b8ab-4843-9a3b-35c91f12e8cc/view
 
 
-### Teachable Machines og Venn diagrammer
+## Teachable Machines og Venn diagrammer
 
 05/05/2025
 
@@ -197,7 +197,7 @@ Her bruger jeg javascript til at scrape og så gemmes filerne derefter i en SQLi
 Jeg overvejer at bruge Task Scheduler til at automatisere det, men der er nok en bedre måde at gøre det på.
 
 
-### Informatik recap
+## Informatik recap
 12/05/2025
 Her ser vi på de ting vi har været gennem indtil videre.
 
@@ -213,7 +213,7 @@ Projekter:
 - Database/Cybersikkerhed/webstuff
 
 
-### Test af teachable machine
+## Test af teachable machine
 
 16/05/2025
 
@@ -225,6 +225,6 @@ ROI: Regien Of Interest - Den klipper fx dåse ud
 
 De 4 p'er bruges til at som en samtalrestarter, det er ikke et scorecard.
 
-### Ideer til 3.G
+## Ideer til 3.G
 Vi har brainstormet ideer til eemner vi kan have om i 3.G
 ![Ideer](3gideer.png)
