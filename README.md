@@ -228,3 +228,35 @@ De 4 p'er bruges til at som en samtalrestarter, det er ikke et scorecard.
 ## Ideer til 3.G
 Vi har brainstormet ideer til eemner vi kan have om i 3.G
 ![Ideer](3gideer.png)
+
+
+
+## Intro til Informatik B
+21/08/2025
+
+Læring foregår ved projektarbejde
+Et IT- system består af nogle server-svlient ting:
+Serveren:
+- Udstiller endpoints der giver client(s) mulighed for at lagre og læse data.
+- Det gøres ved hjælp af en API, der tilgås med nogle HTTP kald: Get, Put, Post Store, Delete, Forget, Refresh, osv.
+- JSON (Javascript Object Notation) bruges til dette formål, dvs trafik (ser rigtig fint ud)
+- 3 lagsmodellen: præsentation, logik, data. Dog er der ved API egentlig ikke præsentationslag??
+
+Datasource Client
+- ESP23, wifi fun
+- Sensor data
+
+Datasink client
+- Sej graf
+
+En der skriver, en der læser og en der husker: MVC (Model View Control)
+
+### Kernestof
+https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/hhx/informatik-b-hhx-og-htx-august-2017.pdf 
+Nogle outtakes derfra:
+- Databaser
+- Innovation: 4P, radikal/inkrementiel
+- 3-lagsmodellen
+- Interaktionsdesign, gestaltlove
+- Sikkerhed, privacy, crypto
+- Server-client
