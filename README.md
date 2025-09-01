@@ -260,3 +260,7 @@ Nogle outtakes derfra:
 - Interaktionsdesign, gestaltlove
 - Sikkerhed, privacy, crypto
 - Server-client
+
+## Data API projekt
+01/09/2025
+Vi er gået i hgang med vores projekt, hvor vi samer data (lysnivear) som samles i en database og vises på en hjemmeside.
