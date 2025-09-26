@@ -273,3 +273,6 @@ M=model
 V=VIew
 Model og view er server (flask)
 Scalability er buzzword i IT
+
+26/09/2025
+Vi arbejder videre med Data API projektet.
