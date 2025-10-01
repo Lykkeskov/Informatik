@@ -276,3 +276,21 @@ Scalability er buzzword i IT
 
 26/09/2025
 Vi arbejder videre med Data API projektet.
+
+01/10/2025
+Lav analyse af programmer, tabeller, E/R-diagrammer (enititet relation)
+Det vigtige når man laver databaser er, at man vælgfer en sølje der er nøgleværdien. 
+Der en af dem kun være en i en liste. Hvis man ber om en specifik nægle for man en specifik række. 
+I CPR regitstret er det fx CPR-nummer der er nøgleværdien, der er kun en af hvert.
+
+I E/R-diagrammer: alle entitetet af ID'er. En sensor har fx et ID. Tekst om det --> [Informatik bogen afsnit](https://informatik.systime.dk/?id=1136)
+Lav E/R diagrammer. Kan gøres på mange forskellige måder og kan også gøres før man har lavet fysisk-hardware delen.
+
+### Brugertest
+
+- Målgruppe: Brug nogen fra målgruppen
+- Metoder: Thinkaloud test
+  - Brugeren tænker højt
+  - Specifikke task: be brugerne om nogle specifikke tasks, fx vis data for måndeden. Kan brugeren gøre det, hvad er godt og hvad skal gøres bedre (UX)''
+  - Dokumenteres: Gerne videodokumentation. Optag, hvor man også kan se skærmen, tag traskiption af det der bliver sagt og brug den
+ 
