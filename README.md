@@ -294,3 +294,5 @@ Lav E/R diagrammer. Kan gøres på mange forskellige måder og kan også gøres 
   - Specifikke task: be brugerne om nogle specifikke tasks, fx vis data for måndeden. Kan brugeren gøre det, hvad er godt og hvad skal gøres bedre (UX)''
   - Dokumenteres: Gerne videodokumentation. Optag, hvor man også kan se skærmen, tag traskiption af det der bliver sagt og brug den
  
+10/10/2025
+VI har arbejdet videre på projektet. Vi lavede klasse diagrammer og prøvede at samle at koden på pythonanywhere.com
