@@ -296,3 +296,16 @@ Lav E/R diagrammer. Kan gøres på mange forskellige måder og kan også gøres 
  
 10/10/2025
 VI har arbejdet videre på projektet. Vi lavede klasse diagrammer og prøvede at samle at koden på pythonanywhere.com
+
+
+
+# Noter fra studiepraktik - forelæsninger ved Datalogisk insitut Aarhus Universitet
+## Software Engineering and Architecture m. Henrik Bærbak Christensen
+22/10/2025
+Blackbox: vi ved ikke hvordan koden ser ud - fordel: man kan bruge tidligt i udviklingsfase, da man ikke behøver have koden
+Whitebox: vi ved hvordan koden ser ud - kan vudere testcases
+- Eksempel på whitebox analyse: skriv først kode og lav så flowchart. Man kan navngive forskellige stier i algoritmen fx abc, ace (om statements er True/False)
+3 basic primes i alle programmer: sequential (block of code), decision (switch), itelation (loop)
+Adequacy (dækning/tilstrækkelighed): Hvis alle linjer bliver udført mindst en gang i en test er der 100% dækning.
+100% statement covereage tilføjer ofte ekstra arbejde, men det er et godt værktøj til at se om der er noget man skal forbedre.
+Dog er 100% ikke det samme som at algoritmen virker som ønsket, alle ting gås bare igennem.
