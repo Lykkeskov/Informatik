@@ -309,3 +309,14 @@ Whitebox: vi ved hvordan koden ser ud - kan vudere testcases
 Adequacy (dækning/tilstrækkelighed): Hvis alle linjer bliver udført mindst en gang i en test er der 100% dækning.
 100% statement covereage tilføjer ofte ekstra arbejde, men det er et godt værktøj til at se om der er noget man skal forbedre.
 Dog er 100% ikke det samme som at algoritmen virker som ønsket, alle ting gås bare igennem.
+
+# Human Computer Interaction - Engelsk forelæsning
+Course has two tracks
+Track A: theory and methoes for designing UI
+Track B: Technical stuff for building UI
+
+UI need sto adapt to diff. aspect ratios and screen sizes - in html/css we can use bootstrap.
+Responsive Web Design is a combination of:
+- media queries: make rules apply if condition is met, fx number of px on screen. We can also make it look nice when printed on paper
+- fuild gruids: use relative values % to make UI look good on any screen size (use breakpoints for when to change layout). Common ways are multicol, felxbox, and css grid (allows the distribution if avaible space across grid tracks)
+- fluid images: with responsive images we can load differently sized images depending on the screen size.
