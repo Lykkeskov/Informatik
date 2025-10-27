@@ -320,3 +320,13 @@ Responsive Web Design is a combination of:
 - media queries: make rules apply if condition is met, fx number of px on screen. We can also make it look nice when printed on paper
 - fuild gruids: use relative values % to make UI look good on any screen size (use breakpoints for when to change layout). Common ways are multicol, felxbox, and css grid (allows the distribution if avaible space across grid tracks)
 - fluid images: with responsive images we can load differently sized images depending on the screen size.
+
+# Er 3 regler for databasestrukturering
+27/10/2025
+
+1. normalform (1NF): Alle attributter skal dække over enkle værdier.
+2. normalform (2NF): Tabelskitsen skal være på 1. normalform, og hvis der er en attribut, der er afhængig af nøglen, så skal den være afhængig af hele nøglen.
+3. normalform (3NF): Tabelskitsen skal være på 2. normalform, og ingen attributter må være indirekte afhængige af nøglen.
+
+Med normalisering minimer man redundant data
+Atomare værdier: skal være udeleligem dvs. navn og adresse skal være i forskellige kolonner.
