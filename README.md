@@ -330,3 +330,30 @@ Responsive Web Design is a combination of:
 
 Med normalisering minimer man redundant data
 Atomare værdier: skal være udeleligem dvs. navn og adresse skal være i forskellige kolonner.
+
+# Gates and stuff (sådan virker computere)
+George Boole ofandt de booleanske matematik: High/Low, 0/1, True/False, On/Off
+0: low voltage
+1: high voltage
+AND gates har to input og outputs - hvis begge input er on er out også on.
+Sandhedstabel for AND gate:
+| in B | In A | Out  |
+| ---- | ---- | ---- |
+|  0   |  1   |  0   |
+|  1   |  0   |  0   |
+|  0   |  1   |  0   |
+|  1   |  1   |  1   |
+
+NOT gates (eller inverter): outputter det modsatte af input
+OR gates: hvis den ene eller begge er on er out put on
+NAND gates: en kombination af and og og gate. Er grundlaget for alt moderne elektronik der kan processere ring
+
+Abstraktionsniveauer: Eldiagrammer, Harvard akitektur diagrammer
+Instruktioner er sådan man skriver programmer: alle instrukrion har en Opcode i hex (intruktion til CPU'et om hvad det skal gøre)
+ALU (Arithmetic and Logic Unit) er lavet af gates og står for matematikken. 
+Grunden til, at man bruger 2 not gates og en NAND gate til at lave en OR gate er, at det er smart hvis det hele er baseret på NAND, modsat hvis man skulle have endnu et lag, som det ville hvis man lavedet det med to paralelle gates.
+
+Arduino logiske oprationer:
+- logical and: &&
+- logical or: ||
+- logical not: !
