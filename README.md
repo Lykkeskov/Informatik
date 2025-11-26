@@ -362,4 +362,4 @@ Arduino logiske oprationer:
 
 Vi lavede systemer med minecraft redstone:
 En ligger tal sammen (full adder curcuit)
-[fill adder circuit](full-adder-circuit.png)
+![fill adder circuit](full-adder-circuit.png)
