@@ -332,6 +332,8 @@ Med normalisering minimer man redundant data
 Atomare værdier: skal være udeleligem dvs. navn og adresse skal være i forskellige kolonner.
 
 # Gates and stuff (sådan virker computere)
+26/11/2025
+
 George Boole ofandt de booleanske matematik: High/Low, 0/1, True/False, On/Off
 0: low voltage
 1: high voltage
@@ -357,3 +359,7 @@ Arduino logiske oprationer:
 - logical and: &&
 - logical or: ||
 - logical not: !
+
+Vi lavede systemer med minecraft redstone:
+En ligger tal sammen (full adder curcuit)
+[fill adder circuit](full-adder-circuit.png)
