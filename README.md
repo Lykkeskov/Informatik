@@ -363,3 +363,21 @@ Arduino logiske oprationer:
 Vi lavede systemer med minecraft redstone:
 En ligger tal sammen (full adder curcuit)
 ![fill adder circuit](full-adder-circuit.png)
+
+
+01/12/2025
+Her er billeder af de gates vi har lavet i Minecraft.
+Herunder ses en 2-bit full adder. Den fungerer som en half adder, men kan også carry:
+![gate1](gate1.png)
+
+Herunder ses der følgende gates fra venstre mod højre: XOR, NAND, AND, NOT & OR:
+![gate2](gate2.png)
+
+Herunder ses der en half adder:
+![gate3](gate3.png)
+
+Herunder ses der
+![gate4](gate4.png)
+
+
+
