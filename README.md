@@ -376,7 +376,7 @@ Herunder ses der en half adder:
 
 ![gate2](gate2.png)
 
-Herunder ses en som jeg ikke kan huske hvad gør:
+Herunder ses en half 2-bit adder (som ikke er færdig):
 
 ![gate3](gate3.png)
 
