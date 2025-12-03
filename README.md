@@ -383,3 +383,12 @@ Herunder ses en half 2-bit adder (som ikke er færdig):
 Herunder ses en 2-bit full adder. Den fungerer som en half adder, men kan også carry:
 
 ![gate4](gate4.png)
+
+03/12/2025
+Jeg har lavet en masse gates i Digital Logic Sim, bl.a. en 32-bit adder:
+
+![32bitadder](32bitadder.png)
+
+Gode links:
+https://www.geeksforgeeks.org/digital-logic/logic-gates/
+https://www.youtube.com/watch?v=kSUYPc0rRuE&list=PLzTuuMapW9aD6jQdK8lW40g3E81Zt-gNi&index=3
