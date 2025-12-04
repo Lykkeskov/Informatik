@@ -1,4 +1,6 @@
 ## Drone projekt
+[Projektets repository](https://github.com/Tobias-Henriksen/TelloDroneSamarbejde)
+
 16/08/24
 opg. 1: logbog:
   - nyt projekt på github
@@ -62,6 +64,7 @@ Protokol:
 
 
 ## Kryptering & OPSEC/SIGINT projekt
+[Projektets repository](https://github.com/Lykkeskov/OPSEC-Informatik)
 
 10/01/25
 Opgave 1: DIY CRYPTO FUN TIMES
@@ -170,6 +173,7 @@ DIY Arduino EKG-måler: https://aarhusuni.taskcards.app/#/board/6ee93724-b8ab-48
 
 
 ## Teachable Machines og Venn diagrammer
+[Projektets repository](https://github.com/Lykkeskov/Teachable-Machines)
 
 05/05/2025
 
@@ -211,6 +215,7 @@ Projekter:
 - Droner
 - Kryptologi OPSEC/INTSEC
 - Database/Cybersikkerhed/webstuff
+- Teachable Machines
 
 
 ## Test af teachable machine
@@ -262,6 +267,8 @@ Nogle outtakes derfra:
 - Server-client
 
 ## Data API projekt
+[Projektets repository](https://github.com/Lykkeskov/Data-API-Projekt)
+
 01/09/2025
 Vi er gået i hgang med vores projekt, hvor vi samer data (lysnivear) som samles i en database og vises på en hjemmeside.
 
@@ -321,7 +328,7 @@ Responsive Web Design is a combination of:
 - fuild gruids: use relative values % to make UI look good on any screen size (use breakpoints for when to change layout). Common ways are multicol, felxbox, and css grid (allows the distribution if avaible space across grid tracks)
 - fluid images: with responsive images we can load differently sized images depending on the screen size.
 
-# Er 3 regler for databasestrukturering
+# De 3 regler for databasestrukturering
 27/10/2025
 
 1. normalform (1NF): Alle attributter skal dække over enkle værdier.
@@ -334,7 +341,10 @@ Atomare værdier: skal være udeleligem dvs. navn og adresse skal være i forske
 # Gates and stuff (sådan virker computere)
 26/11/2025
 
-George Boole ofandt de booleanske matematik: High/Low, 0/1, True/False, On/Off
+I dette forløb arbejder vi med at forstå gates, der en hel central del af computere. 
+I forbindelse med dette med dette udarbejder vi et projekt, hvor jeg har valgt at simulere en række gates i både Minecraft og Digital Logic Sim.
+
+George Boole opfandt de booleanske matematik: High/Low, 0/1, True/False, On/Off
 0: low voltage
 1: high voltage
 AND gates har to input og outputs - hvis begge input er on er out også on.
