@@ -422,7 +422,7 @@ https://www.youtube.com/watch?v=kSUYPc0rRuE&list=PLzTuuMapW9aD6jQdK8lW40g3E81Zt-
 
 Harward arkitektur:
 
-![Harward](Harward.png)
+![Harward](Harward.jpg)
 
 Opbygningen af en ALU:
 
