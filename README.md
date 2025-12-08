@@ -351,14 +351,15 @@ AND gates har to input og outputs - hvis begge input er on er out også on.
 Sandhedstabel for AND gate:
 | in B | In A | Out  |
 | ---- | ---- | ---- |
-|  0   |  1   |  0   |
+|  0   |  0   |  0   |
 |  1   |  0   |  0   |
 |  0   |  1   |  0   |
 |  1   |  1   |  1   |
 
 NOT gates (eller inverter): outputter det modsatte af input
 OR gates: hvis den ene eller begge er on er out put on
-NAND gates: en kombination af and og og gate. Er grundlaget for alt moderne elektronik der kan processere ring
+NAND gates: en kombination af and og or gate. Er grundlaget for alt moderne elektronik der kan processere ring
+Der er også en buffer/repeater, hvor outputtet er lig med inputtet.
 
 Abstraktionsniveauer: Eldiagrammer, Harvard akitektur diagrammer
 Instruktioner er sådan man skriver programmer: alle instrukrion har en Opcode i hex (intruktion til CPU'et om hvad det skal gøre)
