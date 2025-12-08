@@ -417,13 +417,19 @@ https://www.geeksforgeeks.org/digital-logic/logic-gates/
 https://www.youtube.com/watch?v=kSUYPc0rRuE&list=PLzTuuMapW9aD6jQdK8lW40g3E81Zt-gNi&index=3
 
 08/12/2025
+I dag har vi afsluttet forløbet om gates. 
+Jeg viste min fine, men ikke så optimale, 32-bit adder, som jeg havde lavet i Digital Logic Sim.
+Derudover recappede vi lige på den relevante teori, bla.a. ALU og Harvawrd arkitektur.
 
 [OneNote](https://tstaarhustech-my.sharepoint.com/personal/mrnm_aarhustech_dk/_layouts/15/Doc.aspx?sourcedoc={2e2f3fdb-394b-4a26-b7b6-5c8403e2ffb3}&action=view&wd=target%28Ny%20sektion%201.one%7C73536c51-7948-4f9a-96a8-384646a1b1b3%2FIndmaden%20i%20en%20CPU%7Ca34c2578-720b-471e-8ffe-e0502c659885%2F%29&wdorigin=NavigationUrl)
 
-Harward arkitektur:
+Harvard arkitektur:
 
-![Harward](Harward.jpg)
+![Harvard](Harward.jpg)
 
 Opbygningen af en ALU:
 
 ![ALU](ALU.png)
+
+Desuden brugte vi [Karnaugh Map (K-Map) Solver](https://karnaughmapsolver.com/) til at lave sandhedstabeller, regnestykker og diagrammer.
+Man kan selvflgelig også lave det manuelt, men med dette værktj bliver det lidt nemmere.
