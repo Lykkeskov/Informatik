@@ -38,6 +38,8 @@ Vi startede med at lære lidt om arduino og innovation (med 4p modellen: https:/
 
 
 ### Innovation (4P)
+[OneNote](https://tstaarhustech-my.sharepoint.com/personal/mrnm_aarhustech_dk/_layouts/15/Doc.aspx?sourcedoc={2e2f3fdb-394b-4a26-b7b6-5c8403e2ffb3}&action=view&wd=target%28Ny%20sektion%201.one%7C73536c51-7948-4f9a-96a8-384646a1b1b3%2FEmne%20Innovation%7C1b855ad5-0560-4b1c-9bbe-be3727230951%2F%29&wdorigin=NavigationUrl)
+
 - Idégenerering til projekt dronecontroller
     BRAINSTORM - vores idéer:
     - Mind control
@@ -269,10 +271,14 @@ Nogle outtakes derfra:
 ## Data API projekt
 [Projektets repository](https://github.com/Lykkeskov/Data-API-Projekt)
 
+[OneNote](https://tstaarhustech-my.sharepoint.com/personal/mrnm_aarhustech_dk/_layouts/15/Doc.aspx?sourcedoc={2e2f3fdb-394b-4a26-b7b6-5c8403e2ffb3}&action=view&wd=target%28Ny%20sektion%201.one%7C73536c51-7948-4f9a-96a8-384646a1b1b3%2FForl%C3%B8b%201%20DATA%20API%7C2c3b9782-c884-47a2-8786-05097b68d4b8%2F%29&wdorigin=NavigationUrl)
+
 01/09/2025
 Vi er gået i hgang med vores projekt, hvor vi samer data (lysnivear) som samles i en database og vises på en hjemmeside.
 
 17/09/2025
+[OneNote](https://tstaarhustech-my.sharepoint.com/personal/mrnm_aarhustech_dk/_layouts/15/Doc.aspx?sourcedoc={2e2f3fdb-394b-4a26-b7b6-5c8403e2ffb3}&action=view&wd=target%28Ny%20sektion%201.one%7C73536c51-7948-4f9a-96a8-384646a1b1b3%2FSystemarkitektur%7Cc166b95c-749a-4488-a0cd-9815e5d18b29%2F%29&wdorigin=NavigationUrl)
+
 Systemoversigt for model view controller
 C->M->V
 C=controller (sensor)
@@ -285,6 +291,9 @@ Scalability er buzzword i IT
 Vi arbejder videre med Data API projektet.
 
 01/10/2025
+
+[OneNote](https://tstaarhustech-my.sharepoint.com/personal/mrnm_aarhustech_dk/_layouts/15/Doc.aspx?sourcedoc={2e2f3fdb-394b-4a26-b7b6-5c8403e2ffb3}&action=view&wd=target%28Ny%20sektion%201.one%7C73536c51-7948-4f9a-96a8-384646a1b1b3%2FDatabasemodellering%20E%5C%2FR%20diagrammer%7Cbcef92ce-5a85-4fdc-bb10-562dd29b54fe%2F%29&wdorigin=NavigationUrl)
+
 Lav analyse af programmer, tabeller, E/R-diagrammer (enititet relation)
 Det vigtige når man laver databaser er, at man vælgfer en sølje der er nøgleværdien. 
 Der en af dem kun være en i en liste. Hvis man ber om en specifik nægle for man en specifik række. 
@@ -294,6 +303,7 @@ I E/R-diagrammer: alle entitetet af ID'er. En sensor har fx et ID. Tekst om det 
 Lav E/R diagrammer. Kan gøres på mange forskellige måder og kan også gøres før man har lavet fysisk-hardware delen.
 
 ### Brugertest
+[OneNote](https://tstaarhustech-my.sharepoint.com/personal/mrnm_aarhustech_dk/_layouts/15/Doc.aspx?sourcedoc={2e2f3fdb-394b-4a26-b7b6-5c8403e2ffb3}&action=view&wd=target%28Ny%20sektion%201.one%7C73536c51-7948-4f9a-96a8-384646a1b1b3%2FEmne%20Brugertests%7C0afad347-9b00-4ef3-8f6d-83beb2495d97%2F%29&wdorigin=NavigationUrl)
 
 - Målgruppe: Brug nogen fra målgruppen
 - Metoder: Thinkaloud test
@@ -339,6 +349,8 @@ Med normalisering minimer man redundant data
 Atomare værdier: skal være udeleligem dvs. navn og adresse skal være i forskellige kolonner.
 
 # Gates and stuff (sådan virker computere)
+[OneNote](https://tstaarhustech-my.sharepoint.com/personal/mrnm_aarhustech_dk/_layouts/15/Doc.aspx?sourcedoc={2e2f3fdb-394b-4a26-b7b6-5c8403e2ffb3}&action=view&wd=target%28Ny%20sektion%201.one%7C73536c51-7948-4f9a-96a8-384646a1b1b3%2FForl%C3%B8b%202%20Gates%20and%20stuff%E2%80%A6%20%28Boolean%20logic%5C%29%7Ce61aa448-66f6-459e-ab88-1b37ce5308d8%2F%29&wdorigin=NavigationUrl)
+
 26/11/2025
 
 I dette forløb arbejder vi med at forstå gates, der en hel central del af computere. 
@@ -403,3 +415,15 @@ Jeg har lavet en masse gates i Digital Logic Sim, bl.a. en 32-bit adder:
 Gode links:
 https://www.geeksforgeeks.org/digital-logic/logic-gates/
 https://www.youtube.com/watch?v=kSUYPc0rRuE&list=PLzTuuMapW9aD6jQdK8lW40g3E81Zt-gNi&index=3
+
+08/12/2025
+
+[OneNote](https://tstaarhustech-my.sharepoint.com/personal/mrnm_aarhustech_dk/_layouts/15/Doc.aspx?sourcedoc={2e2f3fdb-394b-4a26-b7b6-5c8403e2ffb3}&action=view&wd=target%28Ny%20sektion%201.one%7C73536c51-7948-4f9a-96a8-384646a1b1b3%2FIndmaden%20i%20en%20CPU%7Ca34c2578-720b-471e-8ffe-e0502c659885%2F%29&wdorigin=NavigationUrl)
+
+Harward arkitektur:
+
+![Harward](Harward.png)
+
+Opbygningen af en ALU:
+
+![ALU](ALU.png)
