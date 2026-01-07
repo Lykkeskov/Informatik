@@ -433,3 +433,21 @@ Opbygningen af en ALU:
 
 Desuden brugte vi [Karnaugh Map (K-Map) Solver](https://karnaughmapsolver.com/) til at lave sandhedstabeller, regnestykker og diagrammer.
 Man kan selvflgelig også lave det manuelt, men med dette værktj bliver det lidt nemmere.
+
+
+# Future Robots - Et samarbejde mellem ITK og Aarhus Gymnasium
+
+07/01/2026
+
+ITK (Aarhus Kommunes afdeling for Innovation, Teknologi og Kreativitet) arbejder i et EU projekt (ARLI) med urban robots og vil i forbindelse med dette gerne have flere til at tænke på robttoer i deres dagligdag.
+ARLI robotten kører rundt i byrummet og indsamler data, fx står der noget et sted hvor det ikke må...
+Payload - robotten indsamler og sender en masse data.
+
+Hvad eleverne får ud af projektet:
+- Innovation
+- Projektledelse
+- Indsigt i fremtiddige jobmuligheder
+- Markedsføring
+- osv.
+
+Med en åben database giver det folk mulighed for at forstå og bruge dataen.
