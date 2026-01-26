@@ -453,7 +453,7 @@ Hvad eleverne får ud af projektet:
 Med en åben database giver det folk mulighed for at forstå og bruge dataen.
 
 
-# Foredrag og workshop med ITK
+## Foredrag og workshop med ITK
 
 26/01/2026
 
@@ -484,3 +484,8 @@ Lav undersøgelse af relevante aktører (fx borgere, kommune, virksomhed) og lav
 Der er rigtig mange små problematikker man opdager når man snakker med aktørerne og hører om deres kontrakter, aftaler og adfærd.
 
 De arbejder på baggrund af virksomhedernes behov: sørger også for at der ikke kom nogen fra et andet land med deres robotter - der skal være styr på ansvar og der skal være en der holder øje med robotterne og kan stoppe dem. De synes også lønkronerne holdes i Danmark.
+Når man snakker med aktørerne fåår man også et billede af hvor stort problemet er og evt. for mege tman kan tjene på det og hvor man kan få sin nvestering.
+
+The value Proposition Canvas
+- Akører har Gains, PAoins og Costumer jobs
+- produkt har: Gain creators, pain relievers og products and services
