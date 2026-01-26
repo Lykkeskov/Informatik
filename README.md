@@ -487,5 +487,8 @@ De arbejder på baggrund af virksomhedernes behov: sørger også for at der ikke
 Når man snakker med aktørerne fåår man også et billede af hvor stort problemet er og evt. for mege tman kan tjene på det og hvor man kan få sin nvestering.
 
 The value Proposition Canvas
-- Akører har Gains, PAoins og Costumer jobs
+- Akører har Gains, Pains og Costumer jobs
 - produkt har: Gain creators, pain relievers og products and services
+
+Vi er kommet på en ide, der går ud på at bruge robotter til stormsikring. Robotten skal kortlægge og korbedre vands router gennem byrummet, så det kan blive ledt sikker væk.
+Skal bl.a. kunne rense riste og sikre kloakdæksler, samt skaffe sig af med det skidt den opsamler. Skal også indsamle data så man kan danne et virtuelt kort der kan bruges til at lede vandet sikker væk (måske med matplotlib/plotly).
