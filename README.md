@@ -451,3 +451,36 @@ Hvad eleverne får ud af projektet:
 - osv.
 
 Med en åben database giver det folk mulighed for at forstå og bruge dataen.
+
+
+# Foredrag og workshop med ITK
+
+26/01/2026
+
+Amalie (uddanet designer) og Frederik (foretningsudvikling) er her fra kommunen.
+Foretnignsudvikling: hjælper kommunen og virksomhe dmed vækst
+Robotbranchen har brug for flere (der er gode prenge i det)
+ITK har fået penge af ESA (European Space Agengy) - skal finde ud af hvordan man kan lave nogle gode robotter til rummet.
+Der er udfordringer ift., at kommunen ikke ved hvor mange robotter der er i kommunen - man skal ogå holde øje med beredskab, hvad hvis de bliver hacket eller der er andre der planter robotter (man skal kunne holde øje med dem).
+I Danmark er vi sky overfor det her med robotter i det offentlige rum.
+Samspil mellem kritiske områder: regulering, teknologi og _.
+Der har været et problem ift. at man kun må teste sine robotter når der ikke er så mange på gaden, men det er bedst at teste i virklige situatuioner, hvor der er mange på gaden.
+Nu er der fra den 1. juli kommet en ny ordning, hvor man godt må køre med robotter på gaden.
+Hvad er udfordringer for at få robotterne ud i samfundet?
+Man ska lskelne mellem højrisikoforsøj (stor mejtærsker robot) og lavrrisikoforsøg (lille robot).
+man skal have CI mærkning fra kommunen: hvilke krav er der for at den er sikker at teste og sælge?
+man skal teste i kommuneale testzoner.
+Krav og vægt til robotterne er blevet fjernet (skal ikke længere have samme størrelse som en barnevogn).
+
+Der er mange ting der er vigtige: Lovgivning, domænekendsakb, oplær folk i at bruge/teste robtooer, organisation, økonomi, kommunikation
+
+Forretningsmuligheder:
+1. Outreach and external communication
+2. Scaling potential
+3. Commercialization
+
+Når robotten kan bruges meget bredt, kan man scalere ned og beskrive en konkret usecase - man kan bruge erfaringer til at blive klogere generelt.
+Lav undersøgelse af relevante aktører (fx borgere, kommune, virksomhed) og lav brugertests.
+Der er rigtig mange små problematikker man opdager når man snakker med aktørerne og hører om deres kontrakter, aftaler og adfærd.
+
+De arbejder på baggrund af virksomhedernes behov: sørger også for at der ikke kom nogen fra et andet land med deres robotter - der skal være styr på ansvar og der skal være en der holder øje med robotterne og kan stoppe dem. De synes også lønkronerne holdes i Danmark.
