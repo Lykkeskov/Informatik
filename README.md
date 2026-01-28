@@ -492,3 +492,7 @@ The value Proposition Canvas
 
 Vi er kommet på en ide, der går ud på at bruge robotter til stormsikring. Robotten skal kortlægge og korbedre vands router gennem byrummet, så det kan blive ledt sikker væk.
 Skal bl.a. kunne rense riste og sikre kloakdæksler, samt skaffe sig af med det skidt den opsamler. Skal også indsamle data så man kan danne et virtuelt kort der kan bruges til at lede vandet sikker væk (måske med matplotlib/plotly).
+
+28/01/2026
+Har er begyndt at arbejde på en prototype til et produkt der skal besvare vores problemformulering.
+Vi har købt en løvsuger med kværn, som vi vil modificere, så den kan bruges til at fjerne skidt fra kroaldæksler og riste.
