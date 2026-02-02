@@ -496,3 +496,6 @@ Skal bl.a. kunne rense riste og sikre kloakdæksler, samt skaffe sig af med det 
 28/01/2026
 Har er begyndt at arbejde på en prototype til et produkt der skal besvare vores problemformulering.
 Vi har købt en løvsuger med kværn, som vi vil modificere, så den kan bruges til at fjerne skidt fra kroaldæksler og riste.
+
+02/02/2026
+Jeg har set på hvordan vi kan forbinde et usb webcam til esp32 d1 mini, så vi kan lave nogle objekt detection, og lavet nogle diagrammer til der beskriver hvordan i forskellige ting taler sammen (i Miro).
