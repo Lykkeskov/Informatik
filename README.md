@@ -437,6 +437,8 @@ Man kan selvflgelig også lave det manuelt, men med dette værktj bliver det lid
 
 # Future Robots - Et samarbejde mellem ITK og Aarhus Gymnasium
 
+[Projektets repository](https://github.com/Lykkeskov/Future-Robots-Informatik)
+
 07/01/2026
 
 ITK (Aarhus Kommunes afdeling for Innovation, Teknologi og Kreativitet) arbejder i et EU projekt (ARLI) med urban robots og vil i forbindelse med dette gerne have flere til at tænke på robttoer i deres dagligdag.
@@ -498,4 +500,4 @@ Har er begyndt at arbejde på en prototype til et produkt der skal besvare vores
 Vi har købt en løvsuger med kværn, som vi vil modificere, så den kan bruges til at fjerne skidt fra kroaldæksler og riste.
 
 02/02/2026
-Jeg har set på hvordan vi kan forbinde et usb webcam til esp32 d1 mini, så vi kan lave nogle objekt detection, og lavet nogle diagrammer til der beskriver hvordan i forskellige ting taler sammen (i Miro).
+Jeg har set på hvordan vi kan forbinde et usb webcam til esp32 d1 mini, så vi kan lave nogle objekt detection, og lavet nogle diagrammer til der beskriver hvordan i forskellige ting taler sammen (i [Miro](https://miro.com/welcomeonboard/UDZHR0w2bTBSbDd5b1V4VXByeWh5TklIMGY0TUM3bFFJVHRWUENVclhEVXByWHdSdTA3Zm1YSDRpRE1YS3FVemc4eW05bndrenFhTDU0TnIydTFCeFFadHZFd3hkMGtMVWJ4UkVIUHc5UUp3aVJ5YTRhbG94ZDB5M0N4Qm96MlBNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=932178476722))
