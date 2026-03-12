@@ -517,7 +517,7 @@ Vi har skrevet rapport til Future Robots projektet. Her har jeg bl.a. skrevet om
 12/03/2026
 
 Miniforløb: Privacy og data brokers
-Vi har set en video om emnet, hvor følgende forklares:
+Vi har set en [video](https://www.youtube.com/watch?v=wqn3gR1WTcA) om emnet, hvor følgende forklares:
 - Sælger data, er "middlemen of surveilance capitalism".
 - Bl.a. gennem cookies efterlade man små stykker data, så hjemmesider kan huske én, disse datapunter samles og sammenlignes og deles med andre formaer.
 - 3rd party cookies tracker de andre steder på internetten man besøger: kan finde lokation, device osv.
