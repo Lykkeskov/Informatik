@@ -501,3 +501,29 @@ Vi har købt en løvsuger med kværn, som vi vil modificere, så den kan bruges 
 
 02/02/2026
 Jeg har set på hvordan vi kan forbinde et usb webcam til esp32 d1 mini, så vi kan lave nogle objekt detection, og lavet nogle diagrammer til der beskriver hvordan i forskellige ting taler sammen (i [Miro](https://miro.com/welcomeonboard/UDZHR0w2bTBSbDd5b1V4VXByeWh5TklIMGY0TUM3bFFJVHRWUENVclhEVXByWHdSdTA3Zm1YSDRpRE1YS3FVemc4eW05bndrenFhTDU0TnIydTFCeFFadHZFd3hkMGtMVWJ4UkVIUHc5UUp3aVJ5YTRhbG94ZDB5M0N4Qm96MlBNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=932178476722))
+
+23/02/2026
+
+Vi har arbejdet med Future Robots projektet
+
+04/03/2026
+
+Vi har skrevet rapport til Future Robots projektet. Her har jeg bl.a. skrevet om ideudviklingsprocessen og en masse mere.
+
+11/03/2026
+
+Vi har skrevet rapport til Future Robots projektet. Her har jeg bl.a. skrevet om trelags-modellen og en masse andet.
+
+12/03/2026
+
+Miniforløb: Privacy og data brokers
+Vi har set en video om emnet, hvor følgende forklares:
+- Sælger data, er "middlemen of surveilance capitalism".
+- Bl.a. gennem cookies efterlade man små stykker data, så hjemmesider kan huske én, disse datapunter samles og sammenlignes og deles med andre formaer.
+- 3rd party cookies tracker de andre steder på internetten man besøger: kan finde lokation, device osv.
+- Data brokers oprætter et client ID til hver person med alt det de ved om dem, disse personer sorteres i grupper alt efter hvad man kan sælge til dem.
+- Samler også helbredsoplysninger som fx sygdom om specifikke personer, så de kan sælge til firmaer.
+- Firmaer siger de "de-identificerer" oplysninger før de sælges, men det er meget nemt at de-anonymierer dataene og finde de præcise personer de vedrører.
+- Kan have konsekvenser for personerne hvis nogle vil skade dem osv.
+- I EU er det nemmere at få fjernet sine data end mange andre steder.
+- App/hjemmeside samler og sælger til broker, som sælger videre til firmaer eller stater.
