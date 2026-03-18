@@ -527,3 +527,11 @@ Vi har set en [video](https://www.youtube.com/watch?v=wqn3gR1WTcA) om emnet, hvo
 - Kan have konsekvenser for personerne hvis nogle vil skade dem osv.
 - I EU er det nemmere at få fjernet sine data end mange andre steder.
 - App/hjemmeside samler og sælger til broker, som sælger videre til firmaer eller stater.
+
+# Informatik B - Eksamensprojekt 2026
+18/03/2026
+
+I dag starter vi på eksamensprojekt i Informatik B, hvor vi skal aflevere projektformulering d. 23. marts og rapport d. 27. april.
+
+Om innovation: Vi skal vurdere innovation, ikke skabe innovation.
+Jeg er i gruppe med Tobias og Emre.
