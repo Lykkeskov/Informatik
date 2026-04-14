@@ -516,7 +516,8 @@ Vi har skrevet rapport til Future Robots projektet. Her har jeg bl.a. skrevet om
 
 12/03/2026
 
-Miniforløb: Privacy og data brokers
+# Miniforløb: Privacy og data brokers
+
 Vi har set en [video](https://www.youtube.com/watch?v=wqn3gR1WTcA) om emnet, hvor følgende forklares:
 - Sælger data, er "middlemen of surveilance capitalism".
 - Bl.a. gennem cookies efterlade man små stykker data, så hjemmesider kan huske én, disse datapunter samles og sammenlignes og deles med andre formaer.
@@ -529,9 +530,25 @@ Vi har set en [video](https://www.youtube.com/watch?v=wqn3gR1WTcA) om emnet, hvo
 - App/hjemmeside samler og sælger til broker, som sælger videre til firmaer eller stater.
 
 # Informatik B - Eksamensprojekt 2026
+
+[Projektets repository](https://github.com/Lykkeskov/Eksamensprojekt-Informatik-B)
+
 18/03/2026
 
 I dag starter vi på eksamensprojekt i Informatik B, hvor vi skal aflevere projektformulering d. 23. marts og rapport d. 27. april.
 
 Om innovation: Vi skal vurdere innovation, ikke skabe innovation.
 Jeg er i gruppe med Tobias og Emre.
+
+08/04/2026
+
+Vi har de her roller i projektet:
+- Frontend, UI/UX: Tobias
+- Backend, API: Emre
+- Database, sikkerhed, scrummaster: Halfdan
+
+Jeg har i dag sat en database op med MySQL og lavet nogle tables, så de forskellige ting inddeles ordentligt.
+Jeg har også opdateres vores Trello, hvor jeg har struktureret opgaverne ved at definere de forskellige sprints i scrum.
+Desuden har jeg et foreløbigt E/R diagram til database-strukturering:
+
+![E/R diagram til database-strukturering](ERdiagram.png)
