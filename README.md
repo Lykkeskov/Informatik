@@ -545,10 +545,24 @@ Jeg er i gruppe med Tobias og Emre.
 Vi har de her roller i projektet:
 - Frontend, UI/UX: Tobias
 - Backend, API: Emre
-- Database, sikkerhed, scrummaster: Halfdan
+- Database, sikkerhed, hosting, scrummaster: Halfdan
 
 Jeg har i dag sat en database op med MySQL og lavet nogle tables, så de forskellige ting inddeles ordentligt.
 Jeg har også opdateres vores Trello, hvor jeg har struktureret opgaverne ved at definere de forskellige sprints i scrum.
 Desuden har jeg et foreløbigt E/R diagram til database-strukturering:
 
 ![E/R diagram til database-strukturering](ERdiagram.png)
+
+15/04/2026
+
+28/04/2026
+
+01/05/2026
+I dag er jeg gået i gang med at sætte hosting op på DigitalOcean. Vi bruger en droplet og hjemmesiden er forbundet til adressen cykel.orksat.me
+
+02/05/2026
+Jeg har arbejdet videre med at konfigurere hjmmesiden. Jeg har brugt Certbot til at få et gratis certifikat så vi kan have HTTPS i stedet for HTTP, dvs. forbindelsen er sikrere.
+Derudover har jeg brugt pm2 til at holde serveren kørende og sørge for, at hvis den crasher, så genstarter den automatisk.
+
+03/05/2026
+I dag har vi skrevet informatikrapporten færdig. Den er 15 sider og vi har dokumenteret den iterative proces, samt den brugte teori/metoder som CIA modellen, 4p, diagrammer osv.
