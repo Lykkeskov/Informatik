@@ -540,6 +540,12 @@ I dag starter vi på eksamensprojekt i Informatik B, hvor vi skal aflevere proje
 Om innovation: Vi skal vurdere innovation, ikke skabe innovation.
 Jeg er i gruppe med Tobias og Emre.
 
+Vi har valgt case 1 og vores problemformulering er:
+Hvordan kan et digitalt it-system designes og implementeres, så det effektivt understøtter
+arbejdsgange i et frivilligt cykelværksted, herunder håndtering af cykler, reservedele og
+opgaver, samtidig med, at systemet er brugervenligt for frivillige med forskellige tekniske
+kompetencer?
+
 08/04/2026
 
 Vi har de her roller i projektet:
@@ -547,7 +553,7 @@ Vi har de her roller i projektet:
 - Backend, API: Emre
 - Database, sikkerhed, hosting, scrummaster: Halfdan
 
-Jeg har i dag sat en database op med MySQL og lavet nogle tables, så de forskellige ting inddeles ordentligt.
+Jeg har i dag sat en database op med MySQL og lavet nogle tables, så de forskellige ting inddeles ordentligt - se filen [DatabaseTables.sql](https://github.com/Lykkeskov/Eksamensprojekt-Informatik-B/blob/main/DatabaseTables.sql).
 Jeg har også opdateres vores Trello, hvor jeg har struktureret opgaverne ved at definere de forskellige sprints i scrum.
 Desuden har jeg et foreløbigt E/R diagram til database-strukturering:
 
@@ -555,14 +561,35 @@ Desuden har jeg et foreløbigt E/R diagram til database-strukturering:
 
 15/04/2026
 
+Vi arbejder videre med projektet. Her er diagrammer til noget af det teori jeg overvejer i processen:
+![passwords bliver hashet yay](passwordhash.png)
+![wow reverse proxy server](reverseproxy.png)
+
 28/04/2026
 
+Jeg har arbejdet med at implementere databasen korrekt. Jeg har også opdateret vores .gitignore :) Her er et opdateret E/R-diagram
+
+![et opdateret diagram](nyterdiagram.png)
+
 01/05/2026
-I dag er jeg gået i gang med at sætte hosting op på DigitalOcean. Vi bruger en droplet og hjemmesiden er forbundet til adressen cykel.orksat.me
+
+I dag er jeg gået i gang med at sætte hosting op på DigitalOcean. Vi bruger en droplet og hjemmesiden er forbundet til adressen cykel.orksat.me - Her er nogle billeder af hjemmesiden:
+
+![loginside](cykel1.png)
+![danshboardet](danshboard.png)
+![cykler](cykler2.png)
+![ny reservation](nyres.png)
+![søg efter reservationer](søgres.png)
+![se opgaver](opgaver.png)
+![se reservedele](reservedele.png)
 
 02/05/2026
+
 Jeg har arbejdet videre med at konfigurere hjmmesiden. Jeg har brugt Certbot til at få et gratis certifikat så vi kan have HTTPS i stedet for HTTP, dvs. forbindelsen er sikrere.
 Derudover har jeg brugt pm2 til at holde serveren kørende og sørge for, at hvis den crasher, så genstarter den automatisk.
+Hjemmesiden kan besøges her: [https://cykel.orksat.me](https://cykel.orksat.me)
 
 03/05/2026
+
 I dag har vi skrevet informatikrapporten færdig. Den er 15 sider og vi har dokumenteret den iterative proces, samt den brugte teori/metoder som CIA modellen, 4p, diagrammer osv.
+Desuden har vi sørget for at indsætte QR-koder når der er links, så man og kan tilgå dem hvis man læser rapporten på papir.
